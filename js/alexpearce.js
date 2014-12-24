@@ -169,8 +169,4 @@ $(function() {
   replaceERBTags($('div.highlight').find('code.text'));
   // ... and in inline code
   replaceERBTags($('p code'));
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> f858597f116a5317dded65c6e256bc4fa7d717b0

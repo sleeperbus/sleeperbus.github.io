@@ -1,10 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-<<<<<<< HEAD
 tags: jekyll test first post
-=======
->>>>>>> f858597f116a5317dded65c6e256bc4fa7d717b0
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
