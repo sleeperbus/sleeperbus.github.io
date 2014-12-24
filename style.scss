@@ -322,6 +322,7 @@ footer {
   text-align: center;
 }
 
+<<<<<<< HEAD
 /*****************************************************************************/
 /*
 /* TAGS
@@ -393,6 +394,8 @@ padding-left:20px;
   font-size: 0.625rem;
 }
 
+=======
+>>>>>>> f858597f116a5317dded65c6e256bc4fa7d717b0
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";
