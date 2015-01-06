@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to learn efficiently
-tag:
+
 ---
 [How to learn efficiently](http://lemire.me/blog/archives/2014/12/30/how-to-learn-efficiently/) 중 일부다. 링크는 현재 죽어있다.
 > * 가장 어려운 문제, 가장 어려운 질문들을 찾고 그것들을 해결하라. 교과서 같은 것들을 페이지 순서대로 읽는 것은 쓸모 없지만 어려운 문제를 풀기 위해서라면 의미는 있다. 이 방법은 문제를 해결함으로써 배우는 물리학과 학생들에게는 새로운 것이 아니다. 항상 당신이 풀 수 있는 가장 어려운 문제에 매진해라.  
