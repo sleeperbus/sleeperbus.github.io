@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to learn efficiently
+title: 아기와 대화하기
 tag: 양육
 ---
 [Chattering Away to Babies Is Even Better for Them Than Reading](http://nymag.com/scienceofus/2015/01/importance-of-chattering-away-to-babies.html) 에 따르면 아기에게 책을 읽어주는 것보다  수다를 떠는 것이 인지발달에 효과적이라고 한다.  
