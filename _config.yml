@@ -29,7 +29,7 @@ avatar: "https://avatars1.githubusercontent.com/u/936254?v=3&s=140"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"
+#  Contact: "contact"
   
 # --- Footer options --- #
 
