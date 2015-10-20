@@ -7,6 +7,7 @@ tag: big data,
 다음은 [recode.net](http://recode.net) 에 실린 Dries Buytaert 의 [No, Data is Eating the world](http://recode.net/2015/01/07/no-data-is-eating-the-world/) 라는 글이다. 소프트웨어보다는 데이터에 미래가 있다고 그는 설명한다.  
   
 
+
 >Marc Andreessen 이 [software is eating the world](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460) 라는 유명한 말을 했다. 소프트웨어 회사들이 경제를 재정의 하고 있다는 Marc 의 의견에 동의함과 동시에 많은 기술적 흐름이 데이타로부터 일어나고 있다고 나는 믿는다. 그렇다면 비즈니스의 가치는 데이터 있는가, 소프트웨어에 있는가? 나는 소프트웨어보다 데이터에서 그 가치가 더욱 급격하게 증가하고 있다고 믿는다. 왜 그럴까?
 ## Data-driven experiences
 넷플릭스는 고객중심, data-driven 의 아주 좋은 예이다. 그들은 스트리밍 비디오를 시장에 내놓음으로써 전통적인 DVD 사업을 "먹어치웠다(ate)". 그러나 넷플릭스는 그들의 미래가 전달매체가 되는 것이 아니라는 것을 곧 깨달았다. - 미래는 사용자들이 서비스를 사용하면서 생산해낸 많은 데이터에 있었다.  사용자가 날마다 생산한 데이터는 시장에서 경쟁하는데 중요한 재료가 되어주었고 넷플릭스의 "서비스의 질을 향상시켜라."라는 목적을 정의하게 했다.  
