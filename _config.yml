@@ -64,10 +64,17 @@ disqus: "sleeperbus"
 
 # Output options (more information on Jekyll's site)
 timezone: "Korea/Seoul"
-markdown: kramdown
+markdown: rdiscount
 highlighter: pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
+
+# rdiscount markdown options
+rdiscount:
+  extensions: 
+    - autolink
+	- footnotes
+	- smart 
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
