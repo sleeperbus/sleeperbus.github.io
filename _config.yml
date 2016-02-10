@@ -64,7 +64,7 @@ disqus: "sleeperbus"
 
 # Output options (more information on Jekyll's site)
 timezone: "Korea/Seoul"
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 permalink: /:year-:month-:day-:title
 paginate: 5
@@ -133,11 +133,11 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-rdiscount:
-  extensions: 
-    - autolink
-    - footnotes
-    - smart 
+#rdiscount:
+#  extensions: 
+#    - autolink
+#    - footnotes
+#    - smart 
   
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
