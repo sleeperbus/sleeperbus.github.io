@@ -65,7 +65,7 @@ disqus: "sleeperbus"
 # Output options (more information on Jekyll's site)
 timezone: "Korea/Seoul"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 5
 
